@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "mods": [
+    {
+      "id": "sephiria-trials",
+      "name": "Sephiria Trials",
+      "description": "시련 및 재능 확장 모드",
+      "version": "1.0.0",
+      "releaseTag": "trials-v1.0.0",
+      "assetName": "SephiriaTrials.zip",
+      "detectFiles": [
+        "SephiriaTrials.dll"
+      ]
+    },
+    {
+      "id": "sephiria-inventory-sort",
+      "name": "Sephiria Inventory Sort",
+      "description": "인벤토리 정렬 기능을 추가하는 모드",
+      "version": "1.0.0",
+      "releaseTag": "inventory-sort-v1.0.0",
+      "assetName": "SephiriaInventorySort.zip",
+      "detectFiles": [
+        "SephiriaInventorySort.dll"
+      ]
+    }
+  ]
+}
