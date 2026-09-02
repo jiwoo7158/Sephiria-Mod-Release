@@ -22,6 +22,17 @@
       "detectFiles": [
         "SephiriaInventorySort.dll"
       ]
+    },
+    {
+      "id": "sephiria-speedrun-timer",
+      "name": "Sephiria Speedrun Timer",
+      "description": "스피드런 타이머를 추가하는 모드",
+      "version": "1.0.0",
+      "releaseTag": "speedrun-timer-v1.0.0",
+      "assetName": "SephiriaSpeedrunTimer.zip",
+      "detectFiles": [
+        "SephiriaSpeedrunTimer.dll"
+      ]
     }
   ]
 }
